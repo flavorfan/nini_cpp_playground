@@ -7,7 +7,7 @@ using namespace std;
 int main() 
 {
     const char* a="Hello, World!";
-    cout<<strlen(a); 
+    cout<<strlen(a)+1; 
 }
 // int main() {
 //     const char* str = "Hello, World!";
